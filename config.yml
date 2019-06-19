@@ -1,0 +1,9 @@
+---
+repo-name: peripherals-kinetic-brigdehub
+categories:
+- Integration
+- Automation
+display-name: Kinetic Request Bridgehub
+manufacture: Kinetic
+product: Bridgehub
+description: Handlers and sources for interacting with Kinetic Request Bridgehub.
