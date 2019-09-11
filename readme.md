@@ -1,3 +1,3 @@
 ![Source Icon](thumbnail.png)
-# Kinetic Request Bridgehub
+# Kinetic Bridgehub
 The real-time integration component of the Kinetic Platform.
