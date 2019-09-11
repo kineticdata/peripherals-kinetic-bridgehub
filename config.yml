@@ -3,7 +3,7 @@ repo-name: peripherals-kinetic-brigdehub
 categories:
 - Integration
 - Automation
-display-name: Kinetic Request Bridgehub
-manufacture: Kinetic
+display-name: Kinetic Bridgehub
+manufacture: Kinetic Data
 product: Bridgehub
-description: Handlers and sources for interacting with Kinetic Request Bridgehub.
+description: The real-time integration component of the Kinetic Platform.
